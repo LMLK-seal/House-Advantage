@@ -2,6 +2,8 @@
 
 A unique twist on the classic Blackjack game where **you play as the Casino Dealer**! Your objective is to make the house win against a PC-controlled player by strategically deciding the player's moves and playing your own hand according to standard dealer rules.
 
+![HA](https://raw.githubusercontent.com/LMLK-seal/House-Advantage/refs/heads/main/Preview.jpg)
+
 ## 🎮 Game Concept
 
 Unlike traditional blackjack games where you try to beat the dealer, House Advantage flips the script:
