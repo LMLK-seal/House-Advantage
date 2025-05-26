@@ -1,0 +1,6 @@
+{
+  "name": "House Advantage Blackjack",
+  "description": "A Blackjack game where you play as the Casino Dealer. Your goal is to make the House win against a PC-controlled Player by strategically deciding the Player's moves and playing your own hand according to dealer rules.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
